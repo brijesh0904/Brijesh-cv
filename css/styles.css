@@ -1,0 +1,33 @@
+body{
+  background-color: #FA9905;
+}
+
+h1, th{
+  color: #72147E;
+}
+
+h2 {
+  color: #72147E;
+}
+
+p {
+  color: #72147E;
+}
+img {
+  border-radius: 10px 100px / 120px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 10px;
+    width: 5%;
+}
+
+
+.boot {
+  color: #72147E;
+  text-align: center;
+
+}
